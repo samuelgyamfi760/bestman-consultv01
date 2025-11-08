@@ -11,15 +11,15 @@ import {
 import Director from "../../assets/employees/director.png";
 import Samuel from "../../assets/employees/samuel.png";
 import John from "../../assets/employees/john.png";
-import Safety from "../../assets/employees/safety.png";
-import Abrafi from "../../assets/employees/abrafi.png";
-import Esther from "../../assets/employees/esther.png";
-import Gideon from "../../assets/employees/gideon.png";
+import Safety from "../../assets/employees/Safety.png";
+import Abrafi from "../../assets/employees/Abrafi.png";
+import Esther from "../../assets/employees/Esther.png";
+import Gideon from "../../assets/employees/Gideon.png";
 import Stephen from "../../assets/employees/stephen.png";
-import Frank from "../../assets/employees/frank.png";
-import James from "../../assets/employees/james.png";
-import Appiah from "../../assets/employees/appiah.png";
-import BoatengKofi from "../../assets/employees/boateng kofi.png";
+import Frank from "../../assets/employees/Frank.png";
+import James from "../../assets/employees/James.png";
+import Appiah from "../../assets/employees/Appiah.png";
+import BoatengKofi from "../../assets/employees/Boateng Kofi.png";
 const teamMembers = [
   { name: "ENGR.SURV.FOSU BREMPONG", role: "Director", image: Director },
   { name: "SAMUEL GYAMFI", role: "IT & Data Analyst", image: Samuel },
