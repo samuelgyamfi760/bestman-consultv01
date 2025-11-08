@@ -11,7 +11,7 @@ import {
 import Director from "../../assets/employees/director.png";
 import Samuel from "../../assets/employees/samuel.png";
 import John from "../../assets/employees/john.png";
-import Safety from "../../assets/employees/Safety.png";
+import Safety from "../../assets/employees/safety.png";
 import Abrafi from "../../assets/employees/Abrafi.png";
 import Esther from "../../assets/employees/Esther.png";
 import Gideon from "../../assets/employees/Gideon.png";
